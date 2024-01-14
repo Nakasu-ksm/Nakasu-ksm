@@ -3,4 +3,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nakasu-ksm&hide=php,html&layout=compact&langs_count=10&locale=ja)
 
-- !['虹ヶ咲学園スクールアイドル同好会](https://img.shields.io/badge/%27for%20the%20badge%27%20style-20B2AA?style=for-the-badge) - https://img.shields.io/badge/%27虹ヶ咲学園スクールアイドル同好会%27%20style-20B2AA?style=for-the-badge
+- !['虹ヶ咲学園スクールアイドル同好会](https://img.shields.io/badge/%27虹ヶ咲学園スクールアイドル同好会%20style-20B2AA?style=for-the-badge)
