@@ -32,7 +32,25 @@
 
 好きなアニメ
 
-![虹ヶ咲学園スクールアイドル同好会](https://img.shields.io/badge/%27虹ヶ咲学園スクールアイドル同好会-20B2AA?style=for-the-badge)
+![虹ヶ咲学園スクールアイドル同好会](https://img.shields.io/badge/虹ヶ咲学園スクールアイドル同好会-20B2AA?style=for-the-badge)
+![](https://img.shields.io/badge/ラブライブ！-20B2AA?style=for-the-badge)
+![](https://img.shields.io/badge/のんのんびより-20B2AA?style=for-the-badge)
+![](https://img.shields.io/badge/ゆるゆり-20B2AA?style=for-the-badge)
+![](https://img.shields.io/badge/ご注文はうさぎですか？-20B2AA?style=for-the-badge)
+![](https://img.shields.io/badge/きんいろモザイク-20B2AA?style=for-the-badge)
+![](https://img.shields.io/badge/天体のメソッド-20B2AA?style=for-the-badge)
+![](https://img.shields.io/badge/ひぐらしのなく頃に-20B2AA?style=for-the-badge)
+![](https://img.shields.io/badge/城下町のダンデライオン-20B2AA?style=for-the-badge)
+![](https://img.shields.io/badge/ヤマノススメ-20B2AA?style=for-the-badge)
+![](https://img.shields.io/badge/ラブライブ！サンシャイン!!-20B2AA?style=for-the-badge)
+![](https://img.shields.io/badge/ガールズ&パンツァー-20B2AA?style=for-the-badge)
+![](https://img.shields.io/badge/ハイスクール・フリート-20B2AA?style=for-the-badge)
+![](https://img.shields.io/badge/灼熱の卓球娘-20B2AA?style=for-the-badge)
+![](https://img.shields.io/badge/らき☆すた-20B2AA?style=for-the-badge)
+![](https://img.shields.io/badge/夏色キセキ-20B2AA?style=for-the-badge)
+![](https://img.shields.io/badge/となりのきゅうけつきさん-20B2AA?style=for-the-badge)
+![](https://img.shields.io/badge/TariTari-20B2AA?style=for-the-badge)
+
 ...
 
 好きなゲーム
