@@ -32,7 +32,8 @@
 
 好きなアニメ
 
-!['虹ヶ咲学園スクールアイドル同好会](https://img.shields.io/badge/%27虹ヶ咲学園スクールアイドル同好会-20B2AA?style=for-the-badge)
+![虹ヶ咲学園スクールアイドル同好会](https://img.shields.io/badge/%27虹ヶ咲学園スクールアイドル同好会-20B2AA?style=for-the-badge)
+...
 
 好きなゲーム
 
