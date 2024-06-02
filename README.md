@@ -55,6 +55,8 @@
 
 好きなゲーム
 
-
 <img src="https://i.bandori.party/u/asset/e/430BanG-Dream-Girls-Band-Party-logo-YQLmyp.png" width="auto" height="50"><img src="https://lovelive-sif2.com/wordpress/wp-content/themes/sif2_gl_v1.2/assets/images/common/logo.png" width="auto" height="50"><img src="https://static.wikia.nocookie.net/projectrst/images/f/fd/Re_stage_dream_days_logo.png/revision/latest?cb=20181116165724" width="auto" height="50"><img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/World_dai_star.png" width="auto" height="50"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/The_iDOLM%40STER_logo.svg/2560px-The_iDOLM%40STER_logo.svg.png" width="auto" height="50">
 
+私のACGライフのために(必要)
+
+<a href="http://bgm.tv/user/763092"><img src="http://bgm.tv/chart/img/763092" border="0" alt="稻森光香 的个人主页" /></a>
