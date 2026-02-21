@@ -1,7 +1,7 @@
 ### こんにちは、虹ヶ咲学園スクールアイドル同好会のKSMです。
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nakasu-ksm&locale=ja)
 
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Nakasu-ksm&hide=php,html&layout=compact&langs_count=10&locale=ja)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Nakasu-ksm&hide=php,html,vue&layout=compact&langs_count=10&locale=ja)
 
 使用技術
 
